@@ -1,1 +1,4 @@
-module.exports = "This is a Function";
+function text() {
+  return "This is a Function";
+}
+module.exports = text;
